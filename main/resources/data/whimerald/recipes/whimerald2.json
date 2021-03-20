@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "whimerald:whimerald_nugget"
+    }
+  },
+  "result": {
+    "item": "whimerald:whimerald",
+    "count": 1
+  }
+}

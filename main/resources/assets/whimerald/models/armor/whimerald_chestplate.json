@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "all": "minecraft:armor/whimerald_chestplate"
+  }
+}
