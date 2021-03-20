@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#G#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sweet_berries"
+    },
+    "G": {
+      "item": "whimerald:whimerald_nugget"
+    }
+  },
+  "result": {
+    "item": "whimerald:whimerald_berries",
+    "count": 8
+  }
+}
