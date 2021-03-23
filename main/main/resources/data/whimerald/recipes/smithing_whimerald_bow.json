@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "addition": {
+    "item": "whimerald:whimerald"
+  },
+  "result": {
+    "item": "whimerald:whimerald_bow"
+  }
+}
