@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "all": "minecraft:armor/whimerald_boots"
-  }
-}
