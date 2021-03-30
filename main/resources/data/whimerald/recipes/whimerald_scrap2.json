@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "whimerald:whimerald_nugget"
+    },
+    {
+      "item": "whimerald:whimerald_nugget"
+    },
+    {
+      "item": "whimerald:whimerald_nugget"
+    }
+  ],
+  "result": {
+    "item": "whimerald:whimerald_scrap",
+    "count": 1
+  }
+}
